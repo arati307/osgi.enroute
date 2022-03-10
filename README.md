@@ -11,7 +11,7 @@ This repository contains the code for the enRoute tutorials, and also defines us
 
 Want to contribute to osgi.enroute? See [CONTRIBUTING.md](CONTRIBUTING.md) for information on building, testing and contributing changes.
 
-## License
+## Licenses
 
 The contents of this repository are made available to the public under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 Bundles may depend on non Apache Licensed code.
